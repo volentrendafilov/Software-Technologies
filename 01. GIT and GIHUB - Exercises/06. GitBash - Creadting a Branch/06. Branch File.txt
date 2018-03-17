@@ -2,4 +2,6 @@ This is a file on a branch.
 
 Making a change on the branch.
 
-More changes.
+More changes on the Branch.
+
+Changes on the main Branch.
