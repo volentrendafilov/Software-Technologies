@@ -1,3 +1,3 @@
 # Software-Technologies
 Software Technologies Module - Labs and Exercises
-Making changes so that a conflict will occur.
+I have resolved the conflict and made a new file.
